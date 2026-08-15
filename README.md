@@ -1,6 +1,9 @@
 # Arduino Proximity Sensing System
 
-![Alt text](Arduino-SonarSensor.gif)
+<p align="center">
+  <img src="Arduino-SonarSensor.gif" 
+  alt="Project Preview" width="700"/>
+</p>
 
 A small hardware/software project that uses an **Arduino** and an **ultrasonic sensor** to detect object distance in real time, then sends the sensor data to a **Processing** application for live visualization.
 
